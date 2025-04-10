@@ -1,5 +1,5 @@
 # Devops Scripts
-## _Welcome to the devops scripts repository!_
+## Welcome to the devops scripts repository!
 
  This project contains a collection of scripts designed to streamline and automate various DevOps tasks. Whether you’re setting up environments, managing deployments, or monitoring systems, these scripts aim to simplify and enhance your workflows.
 
